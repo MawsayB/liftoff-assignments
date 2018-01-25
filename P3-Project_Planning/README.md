@@ -27,7 +27,7 @@ Analyze:
 Measure:
 * ![Measure_Add](https://www.dropbox.com/s/54rbqojo44e2y6n/Measure_Add.jpg?raw=1)
 * ![Measure_Confirmation](https://www.dropbox.com/s/9vf9bq8uahdfm55/Measure_Confirmation.jpg?raw=1)
-* ![Measure_Details](https://www.dropbox.com/s/ekk8furg8sb5w6t/Measure_Details.jpg?raw=1)
+* ![Measure_Details](https://www.dropbox.com/s/ekk8furg8sb5w6t/Measure_Details.jpg?dl=0)
 * ![Measure_Index](https://www.dropbox.com/s/rzmd8eiyb67yp15/Measure_Index.jpg?raw=1)
 * ![Measure_Menu](https://www.dropbox.com/s/8kyekulisxrrwsr/Measure_Menu.jpg?raw=1)
 
