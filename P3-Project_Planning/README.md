@@ -14,6 +14,10 @@ Main:
 * [Login](https://www.dropbox.com/s/wr25k0whpmtn4g3/Login.jpg?dl=0)
 * [Register](https://www.dropbox.com/s/rfkafe3wa47eob7/Register.jpg?dl=0)
 
+Lift:
+* [Lift_Create](https://www.dropbox.com/s/ekcmsgn32k6biio/Lift_Create.jpg?dl=0)
+* [Lift_Menu](https://www.dropbox.com/s/ouq0ri7xxolyt0y/Lift_Menu.jpg?dl=0)
+
 Analyze:
 * [Analyze_Details](https://www.dropbox.com/s/ye9953p451lx99p/Analyze_Details.jpg?dl=0)
 * [Analyze_Index](https://www.dropbox.com/s/ghmw46uybfq6gqk/Analyze_Index.jpg?dl=0)
@@ -25,10 +29,6 @@ Measure:
 * [Measure_Details](https://www.dropbox.com/s/ekk8furg8sb5w6t/Measure_Details.jpg?dl=0)
 * [Measure_Index](https://www.dropbox.com/s/rzmd8eiyb67yp15/Measure_Index.jpg?dl=0)
 * [Measure_Menu](https://www.dropbox.com/s/8kyekulisxrrwsr/Measure_Menu.jpg?dl=0)
-
-Lift:
-* [Lift_Create](https://www.dropbox.com/s/ekcmsgn32k6biio/Lift_Create.jpg?dl=0)
-* [Lift_Menu](https://www.dropbox.com/s/ouq0ri7xxolyt0y/Lift_Menu.jpg?dl=0)
 
 Logo Sketches:
 * [Logo_Options](https://www.dropbox.com/s/gfwj2rkbm4y4rzy/Image%20uploaded%20from%20iOS%283%29.jpg?dl=0)
