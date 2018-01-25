@@ -13,7 +13,7 @@ For this assignment, you'll create some initial plans for your project.
 GYMRAT WIREFRAMES
 
 Main:
-* ![About](https://www.dropbox.com/s/ct59qn1wemtra38/About.jpg?raw=1)
+* ![About](https://www.dropbox.com/s/ct59qn1wemtra38/About.jpg?dl=1)
 * ![GymRat_Homepage](https://www.dropbox.com/s/rtus1a3xlbtff4g/GymRat_Homepage.jpg?raw=1)
 * ![Homepage_not_logged_in](https://www.dropbox.com/s/jt8cjwb51m5pmg4/Homepage_not_logged_in.jpg?raw=1)
 * ![Login](https://www.dropbox.com/s/wr25k0whpmtn4g3/Login.jpg?raw=1)
