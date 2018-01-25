@@ -13,7 +13,7 @@ For this assignment, you'll create some initial plans for your project.
 GYMRAT WIREFRAMES
 
 Main:
-* ![About](https://www.dropbox.com/s/ct59qn1wemtra38/About.jpg?dl=0)
+* [About](https://www.dropbox.com/s/ct59qn1wemtra38/About.jpg?dl=0)
 * ![GymRat_Homepage](https://www.dropbox.com/s/rtus1a3xlbtff4g/GymRat_Homepage.jpg?raw=1)
 * ![Homepage_not_logged_in](https://www.dropbox.com/s/jt8cjwb51m5pmg4/Homepage_not_logged_in.jpg?raw=1)
 * ![Login](https://www.dropbox.com/s/wr25k0whpmtn4g3/Login.jpg?raw=1)
@@ -27,7 +27,7 @@ Analyze:
 Measure:
 * ![Measure_Add](https://www.dropbox.com/s/54rbqojo44e2y6n/Measure_Add.jpg?raw=1)
 * ![Measure_Confirmation](https://www.dropbox.com/s/9vf9bq8uahdfm55/Measure_Confirmation.jpg?raw=1)
-* ![Measure_Details](https://www.dropbox.com/s/ekk8furg8sb5w6t/Measure_Details.jpg?dl=0)
+* ![Measure_Details](https://www.dropbox.com/s/ekk8furg8sb5w6t/Measure_Details.jpg?raw=1)
 * ![Measure_Index](https://www.dropbox.com/s/rzmd8eiyb67yp15/Measure_Index.jpg?raw=1)
 * ![Measure_Menu](https://www.dropbox.com/s/8kyekulisxrrwsr/Measure_Menu.jpg?raw=1)
 
