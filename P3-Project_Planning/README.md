@@ -17,7 +17,7 @@ Main:
 * ![GymRat_Homepage](https://www.dropbox.com/s/rtus1a3xlbtff4g/GymRat_Homepage.jpg?raw=1)
 * ![Homepage_not_logged_in](https://www.dropbox.com/s/jt8cjwb51m5pmg4/Homepage_not_logged_in.jpg?raw=1)
 * ![Login](https://www.dropbox.com/s/wr25k0whpmtn4g3/Login.jpg?raw=1)
-* ![Register](https://www.dropbox.com/s/rfkafe3wa47eob7/Register.jpg?raw=1)
+* ![Register](https://www.dropbox.com/s/rfkafe3wa47eob7/Register.jpg?dl=1)
 
 Analyze:
 * ![Analyze_Details](https://www.dropbox.com/s/ye9953p451lx99p/Analyze_Details.jpg?raw=1)
