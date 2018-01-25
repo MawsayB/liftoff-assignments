@@ -14,15 +14,15 @@ GYMRAT WIREFRAMES
 
 Main:
 * [About](https://www.dropbox.com/s/ct59qn1wemtra38/About.jpg?dl=0)
-* [GymRat_Homepage](https://www.dropbox.com/s/rtus1a3xlbtff4g/GymRat_Homepage.jpg?dl=0)
-* [Homepage_not_logged_in](https://www.dropbox.com/s/jt8cjwb51m5pmg4/Homepage_not_logged_in.jpg?dl=0)
+* [Logged_In_Homepage](https://www.dropbox.com/s/rtus1a3xlbtff4g/GymRat_Homepage.jpg?dl=0)
+* [Homepage](https://www.dropbox.com/s/jt8cjwb51m5pmg4/Homepage_not_logged_in.jpg?dl=0)
 * [Login](https://www.dropbox.com/s/wr25k0whpmtn4g3/Login.jpg?dl=0)
 * [Register](https://www.dropbox.com/s/rfkafe3wa47eob7/Register.jpg?dl=0)
 
 Analyze:
-* ![Analyze_Details](https://www.dropbox.com/s/ye9953p451lx99p/Analyze_Details.jpg?raw=1)
-* ![Analyze_Index](https://www.dropbox.com/s/ghmw46uybfq6gqk/Analyze_Index.jpg?raw=1)
-* ![Analyze_Menu](https://www.dropbox.com/s/qacry1260cn5zuu/Analyze_Menu.jpg?raw=1)
+* [Analyze_Details](https://www.dropbox.com/s/ye9953p451lx99p/Analyze_Details.jpg?dl=0)
+* [Analyze_Index](https://www.dropbox.com/s/ghmw46uybfq6gqk/Analyze_Index.jpg?dl=0)
+* [Analyze_Menu](https://www.dropbox.com/s/qacry1260cn5zuu/Analyze_Menu.jpg?dl=0)
 
 Measure:
 * ![Measure_Add](https://www.dropbox.com/s/54rbqojo44e2y6n/Measure_Add.jpg?raw=1)
