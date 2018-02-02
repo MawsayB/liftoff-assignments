@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/MawsayB)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/marcybursac/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](https://www.dropbox.com/s/gzq8ixddpup4uew/Marcy%20Bursac%20-%20Resume%20%28Feb.%202018%29.pdf?dl=0)
