@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[GymRat Presentation](https://www.dropbox.com/s/90dark6rh1upcu5/Liftoff%20-%20Project%20Presentation.pdf?dl=0)
